@@ -1,5 +1,6 @@
 # Top-level packages.
 pandas==2.0.3 --hash=sha256:ba619e410a21d8c387a1ea6e8a0e49bb42216474436245718d7f2e88a2f8d7c0
+joblib==1.4.2 --hash=sha256:06d478d5674cbc267e7496a410ee875abd68e4340feff4490bcb7afb88060ae6
 
 # Pandas dependencies.
 python_dateutil==2.8.2 --hash=sha256:961d03dc3453ebbc59dbdea9e4e11c5651520a876d0f4db161e8674aae935da9
@@ -8,4 +9,3 @@ tzdata==2023.3 --hash=sha256:7e65763eef3120314099b6939b5546db7adce1e7d6f2e179e3d
 openpyxl==3.1.2 --hash=sha256:f91456ead12ab3c6c2e9491cf33ba6d08357d802192379bb482f1033ade496f5
 et_xmlfile==1.1.0 --hash=sha256:a2ba85d1d6a74ef63837eed693bcb89c3f752169b0e3e7ae5b16ca5e1b3deada
 numpy==1.25.2 --hash=sha256:f08f2e037bba04e707eebf4bc934f1972a315c883a9e0ebfa8a7756eabf9e357
-

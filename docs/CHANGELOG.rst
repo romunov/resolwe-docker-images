@@ -6,6 +6,16 @@ All notable changes to this project are documented in this file.
 This project adheres to `Semantic Versioning <http://semver.org/>`_.
 
 ==========
+2024-09-04
+==========
+
+Changed
+-------
+- Add joblib Python library (v1.4.2) to
+  ``public.ecr.aws/genialis/resolwebio/snpeff:3.2.0`` Docker image
+
+
+==========
 2024-08-29
 ==========
 
